@@ -2,7 +2,7 @@
 A ToDo list web app which uses EJS templates (with HTML and CSS) at the front-end and Node.js and Express.js at the back-end.
 
 You can create separate ToDo lists for your personal and work to-dos here. It provides an interactive interface allowing you to add as many to-dos to the list as you want and cross out the ones you complete!
-
+The day and date you access your daily/personal list is rendered dynamically using JavaScript.
 ![image](https://user-images.githubusercontent.com/121666743/212156757-4337de1e-b13a-436f-9dfd-f30da70a1062.png)
 
 ![image](https://user-images.githubusercontent.com/121666743/212156966-b777a697-3ce8-4e24-948f-1f044218f48e.png)
